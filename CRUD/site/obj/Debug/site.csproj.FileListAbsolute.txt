@@ -1,0 +1,8 @@
+C:\Users\Karen\documents\visual studio 2013\Projects\CRUD\site\bin\site.dll.config
+C:\Users\Karen\documents\visual studio 2013\Projects\CRUD\site\bin\site.dll
+C:\Users\Karen\documents\visual studio 2013\Projects\CRUD\site\bin\site.pdb
+C:\Users\Karen\documents\visual studio 2013\Projects\CRUD\site\bin\DAL.dll
+C:\Users\Karen\documents\visual studio 2013\Projects\CRUD\site\bin\DAL.pdb
+C:\Users\Karen\documents\visual studio 2013\Projects\CRUD\site\obj\Debug\site.csprojResolveAssemblyReference.cache
+C:\Users\Karen\documents\visual studio 2013\Projects\CRUD\site\obj\Debug\site.dll
+C:\Users\Karen\documents\visual studio 2013\Projects\CRUD\site\obj\Debug\site.pdb
